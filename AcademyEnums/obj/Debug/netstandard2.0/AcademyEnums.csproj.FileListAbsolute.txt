@@ -1,0 +1,9 @@
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\bin\Debug\netstandard2.0\AcademyEnums.deps.json
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\bin\Debug\netstandard2.0\AcademyEnums.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\bin\Debug\netstandard2.0\AcademyEnums.pdb
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\obj\Debug\netstandard2.0\AcademyEnums.csprojAssemblyReference.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\obj\Debug\netstandard2.0\AcademyEnums.AssemblyInfoInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\obj\Debug\netstandard2.0\AcademyEnums.AssemblyInfo.cs
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\obj\Debug\netstandard2.0\AcademyEnums.csproj.CoreCompileInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\obj\Debug\netstandard2.0\AcademyEnums.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyEnums\obj\Debug\netstandard2.0\AcademyEnums.pdb

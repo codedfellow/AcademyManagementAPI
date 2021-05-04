@@ -1,0 +1,9 @@
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\bin\Debug\netstandard2.0\AcademyViewModels.deps.json
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\bin\Debug\netstandard2.0\AcademyViewModels.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\bin\Debug\netstandard2.0\AcademyViewModels.pdb
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\obj\Debug\netstandard2.0\AcademyViewModels.csprojAssemblyReference.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\obj\Debug\netstandard2.0\AcademyViewModels.AssemblyInfoInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\obj\Debug\netstandard2.0\AcademyViewModels.AssemblyInfo.cs
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\obj\Debug\netstandard2.0\AcademyViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\obj\Debug\netstandard2.0\AcademyViewModels.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyViewModels\obj\Debug\netstandard2.0\AcademyViewModels.pdb

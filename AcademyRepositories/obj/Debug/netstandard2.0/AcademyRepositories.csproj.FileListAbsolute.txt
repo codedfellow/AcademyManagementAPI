@@ -1,0 +1,8 @@
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\bin\Debug\netstandard2.0\AcademyRepositories.deps.json
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\bin\Debug\netstandard2.0\AcademyRepositories.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\bin\Debug\netstandard2.0\AcademyRepositories.pdb
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\obj\Debug\netstandard2.0\AcademyRepositories.AssemblyInfoInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\obj\Debug\netstandard2.0\AcademyRepositories.AssemblyInfo.cs
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\obj\Debug\netstandard2.0\AcademyRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\obj\Debug\netstandard2.0\AcademyRepositories.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyRepositories\obj\Debug\netstandard2.0\AcademyRepositories.pdb

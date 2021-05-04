@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8TimbbZ1disC+xrrcuL/DtZpDsNRVGV1EjS1PtKFjaHBK7qjDjY8uLJ98Lz3ml2MlJxmVX9IA5gFJUxqeXEtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fintrak-Credit360\\Documents\\Visual Studio 2019\\Projects\\AcademyProject\\AcademyRepositories\\AcademyRepositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fintrak-Credit360\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

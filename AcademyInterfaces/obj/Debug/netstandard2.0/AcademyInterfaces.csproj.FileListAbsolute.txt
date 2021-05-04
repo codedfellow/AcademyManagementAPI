@@ -1,0 +1,8 @@
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\bin\Debug\netstandard2.0\AcademyInterfaces.deps.json
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\bin\Debug\netstandard2.0\AcademyInterfaces.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\bin\Debug\netstandard2.0\AcademyInterfaces.pdb
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\obj\Debug\netstandard2.0\AcademyInterfaces.AssemblyInfoInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\obj\Debug\netstandard2.0\AcademyInterfaces.AssemblyInfo.cs
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\obj\Debug\netstandard2.0\AcademyInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\obj\Debug\netstandard2.0\AcademyInterfaces.dll
+C:\Users\Fintrak-Credit360\Documents\Visual Studio 2019\Projects\AcademyProject\AcademyInterfaces\obj\Debug\netstandard2.0\AcademyInterfaces.pdb
